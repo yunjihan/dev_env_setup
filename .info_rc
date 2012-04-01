@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# source .info_rc
+
+PATH=$PATH:~/android/android-sdk-linux/tools:~/android/android-sdk-linux/platform-tools:~/android/eclipse:~/android/android-ndk-r7b
