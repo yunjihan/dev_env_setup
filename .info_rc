@@ -1,5 +1,8 @@
 #!/bin/sh
 
-# source .info_rc
+# if you want to use this file, should insert this code 'source .info_rc' in bash.rc
+# change shell prompt
+
+PS1="[\e[93m\u\e[0m:\e[92m\w\e[0m] \e[94m#\e[0m "
 
 PATH=$PATH:~/android/android-sdk-linux/tools:~/android/android-sdk-linux/platform-tools:~/android/eclipse:~/android/android-ndk-r7b
