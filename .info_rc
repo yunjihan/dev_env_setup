@@ -6,3 +6,7 @@
 PS1="[\e[93m\u\e[0m:\e[92m\w\e[0m] \e[94m#\e[0m "
 
 PATH=$PATH:~/android/android-sdk-linux/tools:~/android/android-sdk-linux/platform-tools:~/android/eclipse:~/android/android-ndk-r7b
+
+# user binary 
+
+PATH=$PATH:~/bin

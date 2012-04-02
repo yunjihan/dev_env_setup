@@ -41,7 +41,7 @@ set tagbsearch
 filetype plugin on
 filetype indent on
 
-# setup vundle
+" setup vundle
 
 set nocompatible	" be iMproved
 filetype off		" required
